@@ -6550,10 +6550,10 @@ typeface-archivo-narrow@^1.0.0:
   resolved "https://registry.yarnpkg.com/typeface-archivo-narrow/-/typeface-archivo-narrow-1.1.13.tgz#ceb5e7b43b444edacff889dda402e02cd2ca5445"
   integrity sha512-0FkYcIu3zXhRfmGDdTTMt5CAyFZVA9PkKYk0QHADlTgQGTklJ5MSrgoduloAN7ocF1Zrk99Ab3BgyUitkm3UZw==
 
-typeface-ibm-plex-mono@^0.0.61:
-  version "0.0.61"
-  resolved "https://registry.yarnpkg.com/typeface-ibm-plex-mono/-/typeface-ibm-plex-mono-0.0.61.tgz#ee7f12643e2bfee5c5c6915350005d6dfdaa66fd"
-  integrity sha512-4Pzza33ihcW1l9qSs6WmRRb6FxVoDvpoTws55V9rwN7zVqURFh1c/i4qWCmHJ0Dyr0c+pYgQVyb/aAwsRjv2Lg==
+typeface-ibm-plex-mono@^1.1.13:
+  version "1.1.13"
+  resolved "https://registry.yarnpkg.com/typeface-ibm-plex-mono/-/typeface-ibm-plex-mono-1.1.13.tgz#9315cffc08b8132ab8a6df5ac2731c3fee050702"
+  integrity sha512-3eKSfAvBOixlrYAMgvCXHN1xxSzxb5fIsfYCgH41gXcYwg2fdhl4d8yCdq2+o74YFFg1Xemkn4/RCVtkyVs6+A==
 
 typeface-indie-flower@^0.0.72:
   version "0.0.72"
