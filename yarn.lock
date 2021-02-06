@@ -6575,10 +6575,10 @@ typeface-rokkitt@^1.0.0:
   resolved "https://registry.yarnpkg.com/typeface-rokkitt/-/typeface-rokkitt-1.1.13.tgz#77c78b9fcb3f7fa06aef74b97db2284e7332faa4"
   integrity sha512-2sPdAOij0gmCXhwdXrCXKb9y1mCtM9dQRI8thh94VwAZ6bFcPzLG2qQcPsGBW2gvo/vSGwIo5ABedfdGbCfo+Q==
 
-typeface-unifrakturmaguntia@^0.0.72:
-  version "0.0.72"
-  resolved "https://registry.yarnpkg.com/typeface-unifrakturmaguntia/-/typeface-unifrakturmaguntia-0.0.72.tgz#2c314a0ebf54d522c9ceb84fa338bbf3b698b6d4"
-  integrity sha512-+arjO+M5PK9CEMtJm7KWCxZS4NIhxHx04iBuTKiU95JyB9xD4YBpfU5Y3NYqUPvUj3YnNJbPvq9B9Ayt0JE8ug==
+typeface-unifrakturmaguntia@^1.1.13:
+  version "1.1.13"
+  resolved "https://registry.yarnpkg.com/typeface-unifrakturmaguntia/-/typeface-unifrakturmaguntia-1.1.13.tgz#0602e745ba81f32ed748e06414cf449ffd180ce7"
+  integrity sha512-EHGqPDa1IfT9smNdqa4591OLnOpWX10zeOrJtKEuqOmRRtBPnf07zbrzs5X2lcYzpsHOLn2L2wxmZkRJveGR4w==
 
 typopro-web@^4.2.2:
   version "4.2.5"
