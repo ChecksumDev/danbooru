@@ -6560,10 +6560,10 @@ typeface-indie-flower@^0.0.72:
   resolved "https://registry.yarnpkg.com/typeface-indie-flower/-/typeface-indie-flower-0.0.72.tgz#80b18841d9c789b262e6f7ff6950a4472e565f60"
   integrity sha512-BwdRkMP4icqG9nSPQ/k1fyEEs06V0/97yJKrOBrGu77Ge6tGCtqvBV+2ke9ASMGxKOUyufZoPZ0zscE3ZxvSvw==
 
-typeface-lora@^0.0.72:
-  version "0.0.72"
-  resolved "https://registry.yarnpkg.com/typeface-lora/-/typeface-lora-0.0.72.tgz#850c211ef51167d8b71b610c93a9b1ca0f17863c"
-  integrity sha512-6Q029hpZAJOU2K0V3JM0xColUa/u/0xpzgN5nv1aKe019lNYp9u+6u+BF3zK7n+gwGAjrz75qdFxhM34fheSAA==
+typeface-lora@^1.1.13:
+  version "1.1.13"
+  resolved "https://registry.yarnpkg.com/typeface-lora/-/typeface-lora-1.1.13.tgz#eb462416dd060fb90e51455bbdb9fea1c3e8db63"
+  integrity sha512-Y02iTW9l8PzGWkEVPqFJ4lVfckZHbYB+CZLKb5WsVRWjkKn/wo1X5OwlOwdKr8Tt+HzcgkOzwbdqY6CMgVO0tw==
 
 typeface-petit-formal-script@^0.0.72:
   version "0.0.72"
