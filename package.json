@@ -33,7 +33,7 @@
     "typeface-lora": "^0.0.72",
     "typeface-petit-formal-script": "^0.0.72",
     "typeface-rokkitt": "^1.0.0",
-    "typeface-unifrakturmaguntia": "^0.0.72",
+    "typeface-unifrakturmaguntia": "^1.1.13",
     "typopro-web": "^4.2.2",
     "webpack": "^5.11.0",
     "webpack-cli": "^4.2.0"
