@@ -6565,10 +6565,10 @@ typeface-lora@^0.0.72:
   resolved "https://registry.yarnpkg.com/typeface-lora/-/typeface-lora-0.0.72.tgz#850c211ef51167d8b71b610c93a9b1ca0f17863c"
   integrity sha512-6Q029hpZAJOU2K0V3JM0xColUa/u/0xpzgN5nv1aKe019lNYp9u+6u+BF3zK7n+gwGAjrz75qdFxhM34fheSAA==
 
-typeface-petit-formal-script@^0.0.72:
-  version "0.0.72"
-  resolved "https://registry.yarnpkg.com/typeface-petit-formal-script/-/typeface-petit-formal-script-0.0.72.tgz#aa9361a5a919ca8403dca24dc115770b17ed0fd3"
-  integrity sha512-1gxpzetKTvVZvbvpYMPpd110VHi3gbwVvTBa+YydyFnv4iVgSBGwvYrnz6QlNQ/u08+N32CFvaSAVFjtb6CLlw==
+typeface-petit-formal-script@^1.1.13:
+  version "1.1.13"
+  resolved "https://registry.yarnpkg.com/typeface-petit-formal-script/-/typeface-petit-formal-script-1.1.13.tgz#01672aeb4b473189d22e9d3ae7ba3b99988b1ae2"
+  integrity sha512-TrCOURHze40w7P22Q+J6tX0H022PsDH3D/+BzCkv8IcspDLRbe007gXPO0OcrpP86Omftj6niSU4s4cUCNlbFg==
 
 typeface-rokkitt@^1.0.0:
   version "1.1.13"
