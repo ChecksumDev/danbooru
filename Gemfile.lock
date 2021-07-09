@@ -219,7 +219,9 @@ GEM
     memoist (0.16.2)
     memory_profiler (1.0.0)
     method_source (1.0.0)
-    mimemagic (0.3.5)
+    mimemagic (0.3.10)
+      nokogiri (~> 1)
+      rake
     mini_mime (1.0.2)
     mini_portile2 (2.5.0)
     minitest (5.14.3)
@@ -315,7 +317,7 @@ GEM
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    recaptcha (5.6.0)
+    recaptcha (5.8.1)
       json
     redis (4.2.5)
     regexp_parser (2.0.3)
